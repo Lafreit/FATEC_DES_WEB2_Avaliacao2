@@ -26,7 +26,6 @@ O sistema utiliza o PHP para a lógica de negócios e interação com o banco de
 * PHP
 * MySQL
 * HTML
-* CSS (pode ser adicionado para estilização)
 
 ## Pré-requisitos
 
